@@ -1,11 +1,10 @@
 # PHP-DiscountProject-AdminPanel
-Admin panel of the project for selling discount coupons( Fully integrated with database )Description of the project and screenshots here. Since this project is currently used by the company(MomentumSoft), source codes are private for security issues. You can send me an email for the share source code repository.
+Admin panel of the project for selling discount coupons( Fully integrated with database ). Description of the project and screenshots here. Since this project is currently used by the company(MomentumSoft), source codes are private for security issues. You can send me an email for the share source code repository.
 
  
  This project allows the manager to do all the transactions through a single panel, about the discount coupons he/she sells and the users who use them.
  Mobile application and this web admin panel is working with same database. So these transactions directly affect the mobile application interface that users view.
  
- important! Since this project is currently used by the company(MomentumSoft), source codes are private. You can send me an email for source code.
  
 ![languages](https://user-images.githubusercontent.com/82888052/158186738-9f78ed06-94fa-46fa-8ecc-2931f0372ed1.jpg)
 Database that used for all transactions:
