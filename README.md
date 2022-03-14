@@ -1,5 +1,6 @@
 # PHP-DiscountProject-AdminPanel
  Admin panel of the project for selling discount coupons. ( Fully integrated with database ).
+ 
  This project allows the manager to do all the transactions through a single panel, about the discount coupons he/she sells and the users who use them.
  Mobile application and this web admin panel is working with same database. So these transactions directly affect the mobile application interface that users view.
  
